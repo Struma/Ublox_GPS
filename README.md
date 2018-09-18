@@ -7,4 +7,4 @@ I read the NMEA sentences over serial using pySerial and parse them with the NME
 
 Qgis has a built in function to log points to the canvas over real time using this GPS. 
 
-![alt screenshot][pyQgis_screenshot.png]
+![alt screenshot](pyQgis_screenshot.png)
